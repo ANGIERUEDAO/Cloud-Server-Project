@@ -31,14 +31,4 @@
 Unlike traditional VM setups using ISO files on local hypervisors (VirtualBox, VMware), this project deploys a cloud-based server using Azure. 
 Since Azure provides pre-configured Windows Server images, there is no need to download an ISO or manually enter a license key.
 
-### 3️⃣ **Connect to Your Server**  
-**If using Windows (RDP):**  
-1. Open **Remote Desktop Connection (`mstsc`)**  
-2. Enter your **VM's Public IP Address**  
-3. Click **Connect**, enter your credentials  
 
-**If using Linux (SSH):**  -We will be using this option-
-1. Open ** Terminal**
-2.
-```bash
-ssh azureuser@your-server-ip
