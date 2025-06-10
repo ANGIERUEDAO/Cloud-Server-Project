@@ -9,6 +9,7 @@
     <img src="https://github.com/ANGIERUEDAO/Cloud-Server-Project/blob/main/images/example.png" width="600">
 </p>
 
+![image](https://github.com/user-attachments/assets/3b1f61e9-5a22-4cc5-a889-3d6ede6817aa)
 
 ### 2️⃣ **Deploy a Cloud Server in Azure**
 - Log into Azure and go to **Virtual Machines**
