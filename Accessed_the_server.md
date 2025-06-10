@@ -22,6 +22,22 @@ We will be using this option:
 
 **Step 3: Connect to Your Server via SSH**  
 Replace `your_server_ip` with **the Public IP** from Step 1:  
-```bash
-ssh azureuser@your_server_ip
+
+`ssh azureuser@your_server_ip`
+
+**Step 4: Accept the SSH Connection Request**  
+If this is your first time connecting to the server, you’ll see a security prompt:  
+
+`Are you sure you want to continue connecting (yes/no)?`
+
+Type: Yes
+
+**Step 5: Enter Your Password (If Required)**
+
+If your VM requires password authentication, enter the administrator password and press Enter.
+
+**Step 6: Verify Connection Success**
+
+Once connected, you should see the Azure VM terminal interface:
+
 
