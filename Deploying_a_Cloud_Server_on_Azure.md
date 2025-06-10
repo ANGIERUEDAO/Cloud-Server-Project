@@ -5,10 +5,9 @@
 ### 1️⃣ **Claim Your Azure Free Credit**
 - Sign up at [Azure Student Portal](https://azure.microsoft.com/en-us/free/students/)
 - Verify student status to get **$100 free credit**  
-✅ <p align="center">
-    <https://github.com/ANGIERUEDAO/Cloud-Server-Project/issues/1#issue-3132013269>
+ <p align="center">
+    <img src="https://github.com/ANGIERUEDAO/Cloud-Server-Project/blob/main/images/example.png" width="600">
 </p>
-
 
 
 ### 2️⃣ **Deploy a Cloud Server in Azure**
@@ -20,11 +19,11 @@
   - **Port 80** → Web server (HTTP)
   - **Port 443** → Secure connections (HTTPS)
   - **Port 1194** → VPN access
-  - **Port 22 → Needed for secure remote access if you're using Linux  (SSH).
-  - **Port 3389 → Required for connecting to Windows Server through Remote Desktop  (RDP).
- - Click "**Create and review**"
-✅ <p align="center">
-    <https://github.com/ANGIERUEDAO/Cloud-Server-Project/issues/2#issue-3132050446>
+  - **Port 22** → Needed for secure remote access if you're using Linux  (SSH).
+  - **Port 3389** → Required for connecting to Windows Server through Remote Desktop  (RDP).
+  - Click "**Create and review**"
+  <p align="center">
+    <img src="https://github.com/ANGIERUEDAO/Cloud-Server-Project/issues/2#issue-3132050446" width="600">
 </p>
 
 ## Deployment Method: Why No Local ISO?  
