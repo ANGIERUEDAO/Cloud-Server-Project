@@ -4,10 +4,9 @@ ID: 34525407
 
 Angie Lizeth Rueda Ortega 
 
-
-# 🚀 **Multi-Function Server: Your Ultimate Cloud Hub** 🚀  
+#  **Multi-Function Server: Your Ultimate Cloud Hub**   
 --------------------------------------------  
-Welcome to your **Multi-Function Server**, an all-in-one solution for hosting a blog, file sharing, and VPN services.  
+Welcome to your **Multi-Function Server**, an all-in-one solution for hosting a blog, file sharing, and VPN services. 
 
 This repository contains:  
 ✅ **WordPress** for blogging 📝  
