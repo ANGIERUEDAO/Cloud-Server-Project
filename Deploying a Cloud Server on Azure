@@ -15,7 +15,7 @@
 - Log into Azure and go to **Virtual Machines**
 - Click "**Create Virtual Machine**"
 - Choose **Windows Server 2022 Datacenter** as the OS
-- Configure **CPU/RAM**: Minimum **2 vCPUs, 4GB RAM**
+- Configure **CPU/RAM**: Minimum **2 vCPUs, 4GB RAM** 
 - Open **Ports**:
   - **Port 80** → Web server (HTTP)
   - **Port 443** → Secure connections (HTTPS)
